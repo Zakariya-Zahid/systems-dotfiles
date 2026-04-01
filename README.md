@@ -14,7 +14,7 @@ A collection of dotfiles and setup scripts for Arch Linux, optimized for i3 and 
 
 1.  **Clone the repository**:
     ```bash
-    git clone [repo-url]
+    git clone https://github.com/Zakariya-Zahid/systems-dotfiles
     cd systems-dotfiles
     ```
 
