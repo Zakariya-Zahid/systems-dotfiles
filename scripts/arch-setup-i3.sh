@@ -59,7 +59,7 @@ fi
 # Copy config files
 echo "Syncing configuration files..."
 # Folders to sync (added check for directory existence)
-CONFIG_FOLDERS=("i3" "hypr" "neovim" "kitty" "picom" "polybar" "rofi" "dunst" "spicetify")
+CONFIG_FOLDERS=("i3" "hypr" "neovim" "kitty" "picom" "polybar" "rofi" "dunst" "spicetify" "i3lock")
 
 for folder in "${CONFIG_FOLDERS[@]}"; do
     if [ -d "$ARCH_DIR/$folder" ]; then
