@@ -4,7 +4,7 @@ A collection of dotfiles and setup scripts for Arch Linux, optimized for i3 and 
 
 ## Repository Structure
 
-- `arch/`: Core configuration files for various applications (i3, Neovim, Kitty, Picom, etc.).
+- `arch/`: Core configuration files for various applications (i3, Hyprland, Neovim, Kitty, Picom, Polybar, Rofi, Dunst, Spicetify, i3lock).
 - `pkglist/`: 
     - `pacman.txt`: Official Arch Linux packages.
     - `aur.txt`: AUR packages managed by `yay`.
