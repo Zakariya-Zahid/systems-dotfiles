@@ -1,0 +1,31 @@
+# Neovim / Editors
+*.swp
+*.swo
+*~
+.netrwhist
+undo/
+backups/
+
+# System / OS specifics
+.DS_Store
+Thumbs.db
+
+# Shell / History
+.zsh_history
+.bash_history
+
+# Packages / Build
+yay/
+node_modules/
+__pycache__/
+.pytest_cache/
+.tox/
+
+# Sensitive info
+.env
+.secrets/
+
+# Spicetify / Spotify
+*/.cache/
+*/.config/spotify/
+*/.config/spicetify/Backup/
